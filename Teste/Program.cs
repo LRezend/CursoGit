@@ -8,6 +8,7 @@ namespace Teste
         {
             Console.WriteLine("Ola mundo!");
             Console.WriteLine("Bom dia !");
+            Console.WriteLine("Como voce esta?")
             
             Console.ReadLine();
         }
